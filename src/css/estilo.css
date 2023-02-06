@@ -36,7 +36,7 @@ fieldset {
 }
 .plano-de-fundo{
     position: relative;
-    background-image: url(/src/images/bg.png);
+    background-image: url(../images/bg-intro-desktop.png);
     background-size: cover;
     background-position: center center;
     
